@@ -12,6 +12,6 @@ export class AppComponent {
   constructor(private meta: Meta) {
     this.meta.addTags([
       { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }  
-    ]); 
+    ]);
   } 
 }
